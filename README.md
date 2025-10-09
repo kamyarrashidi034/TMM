@@ -1,5 +1,9 @@
 # **TMM Dispersion and Field Calculation**
-
+The Reference for this codes are:
+1. https://www.nature.com/articles/s41565-025-01995-0
+2. https://pubs.acs.org/doi/full/10.1021/acs.nanolett.3c02984
+3. https://scholar.google.com/citations?view_op=view_citation&hl=en&user=S8jT1kwAAAAJ&citation_for_view=S8jT1kwAAAAJ:W7OEmFMy1HYC
+4. 
 This MATLAB project calculates **Reflectance (R)**, **Transmittance (T)**, **Absorptance (A)**, and **Electric Field Distribution** for multilayer optical structures using the **Transfer Matrix Method (TMM)**.
 
 The project includes two main scripts:
